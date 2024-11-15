@@ -1,5 +1,6 @@
 <div align="center">
 
+![nike-landing-image](https://github.com/user-attachments/assets/b4e0ddbc-4ae3-4fcc-a936-6a0557e40d3e)
 
   <div>
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
